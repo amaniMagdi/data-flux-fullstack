@@ -46,6 +46,11 @@ The frontend directory contains the client-side code for the application. Below 
       
 -   **`tailwind.config.js`**: Configuration file for Tailwind CSS, a utility-first CSS framework.
 
+## Video Tutorial
+
+https://github.com/user-attachments/assets/09067513-133a-441c-b571-7d2a9fdf36c9
+
+
 ## Future Enhancements
 
 ### Backend
