@@ -86,12 +86,12 @@ const BulkDialog = ({ open, onClose }) => {
             </div>
             {alert.visible && (
               <div
-                className={`mx-4 px-4 py-3 sm:px-6 ${
+                className={`p-2 mb-2 mx-4 text-sm rounded-md ${
                   alert.type === "error" ? "bg-red-100" : "bg-green-100"
                 } rounded-md`}
               >
                 <p
-                  className={`mx-4 px-4 py-3 sm:px-6 ${
+                  className={`p-2 mb-2 mx-4 text-sm rounded-md ${
                     alert.type === "error" ? "text-red-700" : "text-green-700"
                   }`}
                 >

@@ -160,7 +160,7 @@ const EditDialog = ({ open, onClose, productToEdit }) => {
               </div>
               {alert.visible && (
                 <div
-                  className={`mx-4 px-4 py-3 sm:px-6 ${
+                  className={`mx-4 px-4 py-3 mb-2 sm:px-6 ${
                     alert.type === "error" ? "bg-red-100" : "bg-green-100"
                   } rounded-md`}
                 >
