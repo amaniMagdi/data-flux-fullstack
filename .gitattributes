@@ -1,5 +1,5 @@
 # Mark all files in the backend directory as Python
-data_flux/* linguist-language=Python
+data_flux/** linguist-language=Python
 
 # Mark all files in the frontend directory as JavaScript
-data_flux_fe/* linguist-language=JavaScript
+data_flux_fe/** linguist-language=JavaScript
