@@ -48,8 +48,7 @@ The frontend directory contains the client-side code for the application. Below 
 
 ## Video Tutorial
 
-https://github.com/user-attachments/assets/09067513-133a-441c-b571-7d2a9fdf36c9
-
+https://github.com/user-attachments/assets/0df487ca-cc53-448c-805f-3bcdb813cf29
 
 ## Future Enhancements
 
