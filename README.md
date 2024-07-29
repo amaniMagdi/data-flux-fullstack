@@ -58,6 +58,7 @@ To improve the organization, maintainability, and testability of our codebase, w
 
 -   **Separate Routes and Services**: We will refactor the code to separate routes from services. Routes will handle the HTTP request and response cycle, while services will contain the business logic and interact with the data layer. This separation will make our codebase more organized and easier to manage.
 -   **Handle Textual Data**: Future updates will include the capability to handle textual data effectively, allowing for better data processing and management.
+-   **Utilize Docker for application containerization with Kubernetes**: for deployment and scaling, ensuring the application's resilience and maintainability.
 
 ### Frontend
 
