@@ -64,7 +64,7 @@ To improve the organization, maintainability, and testability of our codebase, w
 
 To enhance the user experience and improve the application's responsiveness and interactivity, we plan to:
 
--   **Enhance Responsive Design**: Further optimize the design for mobile devices to ensure a seamless experience for the majority of users accessing the application on smaller screens.
+-   **Enhance Responsive Design**: Further optimize the design for mobile devices, including making the sidebar responsive for mobile view to ensure a seamless experience for users accessing the application on smaller screens.
 -   **Apply Animations**: Add animations for transitions between different application states, button clicks, data loading phases, and user interactions. This will improve visual feedback and enhance the overall user experience.
 -   **Add Global Interceptor for Error Handling**: Implement a global interceptor to manage 500 error codes and provide a more user-friendly experience in case of server errors.
 -   **Handle Image Cropping and Resize**: as this logic has been developed from backend but still not implemented from frontend side.
